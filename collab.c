@@ -91,8 +91,7 @@ void dzabi2() {
 
 void jdelr5_lwalk9() {
   printf("James Del Re and Levi Walker");
-  printf("We learned that git is used for a lot more than just uploading code and
-    is really useful for version control too.");
+  printf("We learned that git is used for a lot more than just uploading code and is really useful for version control too.");
 }
 
 void ddesle3_yshah33() {
@@ -158,6 +157,13 @@ void assdsa() {
   printf("sadc");
   printf("sdsd");
 }
+
+void mbeze2_mramir23_tshra2(){
+  printf("Maria Bezerra, Gabriela Ramirez, Tala Shraim");
+  printf("We learned that gitHub and Replit can be combined, making both of them more powerful that we thought!");
+}
+
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -179,6 +185,7 @@ int main() {
   rwisni2_ajoshi46();
   wsitu3();
   aomar22();
+  mbeze2_mramir23_tshra2();
 
   return 0;
 }
